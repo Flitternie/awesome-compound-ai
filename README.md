@@ -24,6 +24,8 @@ If you find this repository useful, please consider giving it a star. If there a
   - Marija Šakota, Maxime Peyrard, Robert West 
 - Routing to the Expert: Efficient Reward-guided Ensemble of Large Language Models (NAACL 2024) [[PDF]](https://aclanthology.org/2024.naacl-long.109.pdf)
   - Keming Lu, Hongyi Yuan, Runji Lin, Junyang Lin, Zheng Yuan, Chang Zhou, Jingren Zhou
+- Which LLM to Play? Convergence-Aware Online Model Selection with Time-Increasing Bandits (WWW 2024) [[PDF]](https://arxiv.org/pdf/2403.07213) 
+  - Yu Xia, Fang Kong, Tong Yu, Liya Guo, Ryan A. Rossi, Sungchul Kim, Shuai Li
 
 ## Ensemble
 - Efficient Online ML API Selection for Multi-Label Classification Tasks (ICML 2022) [[PDF]](https://arxiv.org/pdf/2102.09127)
