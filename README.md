@@ -8,7 +8,7 @@ If you find this repository useful, please consider giving it a star. If there a
 ## Related Resources
 - [The Shift from Models to Compound AI Systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)
 - [Compound AI Systems Workshop](https://sites.google.com/view/compound-ai-systems-workshop/)
-
+- [Compound AI Systems - Databricks](https://www.databricks.com/glossary/compound-ai-systems)
 
 ## Routing
 - Large Language Model Routing with Benchmark Datasets (arXiv, 2023) [[PDF]](https://arxiv.org/pdf/2309.15789) 
