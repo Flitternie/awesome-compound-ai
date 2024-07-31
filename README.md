@@ -23,6 +23,8 @@ If you find this repository useful, please consider giving it a star. If there a
   - Keming Lu, Hongyi Yuan, Runji Lin, Junyang Lin, Zheng Yuan, Chang Zhou, Jingren Zhou
 - Which LLM to Play? Convergence-Aware Online Model Selection with Time-Increasing Bandits (WWW 2024) [[PDF]](https://arxiv.org/pdf/2403.07213) 
   - Yu Xia, Fang Kong, Tong Yu, Liya Guo, Ryan A. Rossi, Sungchul Kim, Shuai Li
+- Hybrid LLM: Cost-Efficient and Quality-Aware Query Routing (ICLR 2024) [[PDF]](https://openreview.net/pdf?id=02f3mUtqnM)
+  -Dujian Ding, Ankur Mallick, Chi Wang, Robert Sim, Subhabrata Mukherjee, Victor Rühle, Laks V. S. Lakshmanan, Ahmed Hassan Awadallah
 - Towards Optimizing the Costs of LLM Usage (arXiv, 2024) [[PDF]](https://arxiv.org/pdf/2402.01742)
   - Shivanshu Shekhar, Tanishq Dubey, Koyel Mukherjee, Apoorv Saxena, Atharv Tyagi, Nishanth Kotla
 - ROUTERBENCH: A Benchmark for Multi-LLM Routing System (arXiv, 2024) [[PDF]](https://arxiv.org/pdf/2403.12031) [![Benchmark](https://img.shields.io/badge/benchmark-blue)](https://github.com/withmartian/routerbench)
