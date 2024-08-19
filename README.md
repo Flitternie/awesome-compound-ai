@@ -66,7 +66,7 @@ If you find this repository useful, please consider giving it a star. If there a
 - Faster Cascades via Speculative Decoding (arXiv, 2024) [[PDF]](https://arxiv.org/pdf/2405.19261)
   - Harikrishna Narasimhan, Wittawat Jitkrittum, Ankit Singh Rawat, Seungyeon Kim, Neha Gupta, Aditya Krishna Menon, Sanjiv Kumar
 
-## LLM Programming Framework
+## LLM/Agent Programming Framework
 - Prompting Is Programming: A Query Language for Large Language Models (PLDI 2023) [[PDF]](https://arxiv.org/pdf/2212.06094)
   - Luca Beurer-Kellner, Marc Fischer, Martin Vechev
   - Code: https://github.com/eth-sri/lmql [![Stars](https://img.shields.io/github/stars/eth-sri/lmql)](https://github.com/eth-sri/lmql)
@@ -79,6 +79,9 @@ If you find this repository useful, please consider giving it a star. If there a
 - SGLang: Efficient Execution of Structured Language Model Programs (arXiv, 2024) [[PDF]](https://arxiv.org/pdf/2312.07104)
   - Lianmin Zheng, Liangsheng Yin, Zhiqiang Xie, Chuyue Sun, Jeff Huang, Cody Hao Yu, Shiyi Cao, Christos Kozyrakis, Ion Stoica, Joseph E. Gonzalez, Clark Barrett, Ying Sheng
   - Code: https://github.com/sgl-project/sglang [![Stars](https://img.shields.io/github/stars/sgl-project/sglang)](https://github.com/sgl-project/sglang)
+- AgentLego: An open-source library of versatile tool APIs to extend and enhance LLM based agents
+  - OpenXLab
+  - Code: https://github.com/InternLM/agentlego [![Stars](https://img.shields.io/github/stars/InternLM/agentlego)](https://github.com/InternLM/agentlego)
 - A Declarative System for Optimizing AI Workloads (arXiv, 2024) [[PDF]](https://arxiv.org/pdf/2405.14696)
   - Chunwei Liu, Matthew Russo, Michael Cafarella, Lei Cao, Peter Baille Chen, Zui Chen, Michael Franklin, Tim Kraska, Samuel Madden, Gerardo Vitagliano
   - Code: https://github.com/mitdbg/palimpzest [![Stars](https://img.shields.io/github/stars/mitdbg/palimpzest)](https://github.com/mitdbg/palimpzest)
