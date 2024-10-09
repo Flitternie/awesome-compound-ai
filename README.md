@@ -70,7 +70,7 @@ If you find this repository useful, please consider giving it a star. If there a
 - Prompting Is Programming: A Query Language for Large Language Models (PLDI 2023) [[PDF]](https://arxiv.org/pdf/2212.06094)
   - Luca Beurer-Kellner, Marc Fischer, Martin Vechev
   - Code: https://github.com/eth-sri/lmql [![Stars](https://img.shields.io/github/stars/eth-sri/lmql)](https://github.com/eth-sri/lmql)
-- AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework [[PDF]](https://arxiv.org/pdf/2308.08155)
+- AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework (ICLR 2024 Workshop on LLM Agents) [[PDF]](https://arxiv.org/pdf/2308.08155)
   - Qingyun Wu, Gagan Bansal, Jieyu Zhang, Yiran Wu, Beibin Li, Erkang Zhu, Li Jiang, Xiaoyun Zhang, Shaokun Zhang, Jiale Liu, Ahmed Hassan Awadallah, Ryen W White, Doug Burger, Chi Wang
   - Code: https://github.com/microsoft/autogen [![Stars](https://img.shields.io/github/stars/microsoft/autogen)](https://github.com/microsoft/autogen)
 - DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines (R0-FoMo Workshop, 2023) [[PDF]](https://arxiv.org/pdf/2310.03714)
